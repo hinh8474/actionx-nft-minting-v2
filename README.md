@@ -54,7 +54,7 @@ address will be like this admin_addr = "0xe17365770306373bb547e2204b556edd55debd
 
 - Line 84. Set the description of your NFT collection royalty_points_denominator (create nft-receiver account)
 
-- Line 85. Set the description of your NFTcollection royalty_points_numerator (create nft-receiver account)
+- Line 85. Set the description of your NFT collection royalty_points_numerator (create nft-receiver account)
 
 
 ## Deploy nft collection smartcontract:
