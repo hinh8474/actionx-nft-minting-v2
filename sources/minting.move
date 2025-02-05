@@ -22,6 +22,7 @@ module mint_nft::minting {
     }
 
 
+
     // This struct stores an NFT collection's relevant information
     struct ModuleData has key {
         public_key: ed25519::ValidatedPublicKey,
